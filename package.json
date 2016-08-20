@@ -3,6 +3,6 @@
 	"description": "A library to translate basic strings as used by MediaWiki.",
 	"version": "0.8.0",
 	"dependencies": {
-		"jdlrobson/mediawiki-html-construction-helper": "0.8.0"
+		"mediawiki-html-construction-helper": "jdlrobson/mediawiki-html-construction-helper"
 	}
 }
