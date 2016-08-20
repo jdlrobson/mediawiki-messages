@@ -1,4 +1,4 @@
-( function ( $, mw ) {
+( function () {
 	var exports,
 		mwHtml = typeof mw !== 'undefined' ? mw.html
 			: require( 'mediawiki-html-construction-helper' ),
@@ -266,4 +266,4 @@
 		module.exports = exports;
 	}
 
-}( jQuery, mediaWiki ) );
+}());
